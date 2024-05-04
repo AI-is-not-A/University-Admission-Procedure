@@ -1,0 +1,21 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/University Admission Procedure (Python)/*
+!/University Admission Procedure (Python)/task/
+/University Admission Procedure (Python)/task/*
+!/University Admission Procedure (Python)/task/university.py
+!/University Admission Procedure (Python)/task/Mathematics.txt
+!/University Admission Procedure (Python)/task/Engineering.txt
+!/University Admission Procedure (Python)/task/Physics.txt
+!/University Admission Procedure (Python)/task/Biotech.txt
+!/University Admission Procedure (Python)/task/Chemistry.txt
